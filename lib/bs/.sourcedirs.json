@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" , "src/assets" ] , "pkgs" : [ [ "@rescript/core" , "/Users/bradley/Documents/dev/Kicad-Schematic-Helper/node_modules/@rescript/core" ] , [ "@rescript/react" , "/Users/bradley/Documents/dev/Kicad-Schematic-Helper/node_modules/@rescript/react" ] ] , "generated" : [] }
